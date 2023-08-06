@@ -5,7 +5,7 @@
 <div align="justify">
   <p>
     This was my APS from UNIP, a semester work from the university. It was my first serious project of web development, 
-    it basically an information site about water and your issues and possible solutions we have to do to a better world.
+    it basically an information website about water and your issues and possible solutions we have to do to a better world.
   </p>
 
   <p>
