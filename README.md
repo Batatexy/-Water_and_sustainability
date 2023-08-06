@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Water and sustainability | Água e sustentabilidade</h1>
+  <h1>Water And Sustainability | Água e Sustentabilidade</h1>
 </div>
 
 <div align="justify">
